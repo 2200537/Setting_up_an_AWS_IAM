@@ -1,2 +1,1 @@
-# MY_AWS_PROJECTS
-Hands-on lab1
+Setting up an AWS IAM account
